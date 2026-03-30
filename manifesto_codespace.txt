@@ -1,0 +1,2 @@
+My Open Source Manifesto - 30 March 2026
+Every single day, I rely on tools like vlc to learn and build. To me, open source is the ultimate expression of independence in the digital age. It means no one can lock away the foundations of our technology. If I had the time and resources, I would love to build operating system and release it under an open license, paying forward the collaborative spirit that built the internet.
